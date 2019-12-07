@@ -1,5 +1,5 @@
 run `yarn install`
-run `yarn test` to run all unit tests
+run `yarn test`, then press 'a' to run all unit tests
 run `yarn start` to start the app
 
 Things that can be improved:
